@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
-<h3 align="center">A curious software developer from Portugal and currently leaving in Vienna, Austria.</h3>
+<h3 align="center">A curious software developer from Portugal and currently living in Vienna, Austria.</h3>
 
 - 🔭 I’m currently working on my Upleveled final project [a Secondhand Bookstore](https://github.com/N2late/secondhand-bookstore)
 
