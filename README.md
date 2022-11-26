@@ -4,7 +4,8 @@
 <p>I am a software developer with a background in HR. My passion for the field arises from a diversity of sources: my close professional experiences in multiple tech companies; my savvy curiosity; the positive influence and feedback from my circle of friends in the field; my motivation to perform and solve logic problems and to create and learn new things. I have experience working in multicultural, cross-functional and data driven environments.<p>
 
 - 🔭 I’m currently working on my Upleveled final project [a Secondhand Bookstore](https://secondhand-bookstore.fly.dev/)
-
+- 📃 [My CV](https://tiago-serra-cv.netlify.app/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tiago-serra-hr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-serra-hr" height="30" width="40" /></a>
