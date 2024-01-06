@@ -4,7 +4,7 @@
 <p>I am a software developer with a background in HR. My passion for the field arises from a diversity of sources: my close professional experiences in multiple tech companies; my savvy curiosity; the positive influence and feedback from my circle of friends in the field; my motivation to perform and solve logic problems and to create and learn new things. I have experience working in multicultural, cross-functional and data driven environments.<p>
 
 - 🔭 I’m currently looking for my first role as a Software Developer while deepening my knowledge of Data Structures and Algorithms.
-- 👨‍💻 I've been working on the following projects: [Secondhand Bookstore](https://secondhand-bookstore.fly.dev/) and [SportCal](https://github.com/N2late/sport-events-calendar)
+- 👨‍💻 I've been working on the following projects: [Secondhand Bookstore](https://github.com/N2late/secondhand-bookstore) and [SportCal](https://github.com/N2late/sport-events-calendar)
 - 📃 [My CV](https://tiago-serra-cv.netlify.app/)
   
 <h3 align="left">Connect with me:</h3>
